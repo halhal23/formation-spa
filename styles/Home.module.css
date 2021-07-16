@@ -113,6 +113,10 @@
   margin-left: 0.5rem;
 }
 
+.tomato {
+  color: tomato;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
