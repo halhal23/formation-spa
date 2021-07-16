@@ -7,6 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <h1>vercelデプロイ確認</h1>
       <h1 className={styles.tomato}>色はトマト</h1>
+      <h1 className={styles.green}>色は緑</h1>
     </div>
   )
 }
